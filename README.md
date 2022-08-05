@@ -1,4 +1,4 @@
-# Aritra Bhattacharyya
+## About me
 
 Front-end developer and Adobe Certified Expert in Target and Analytics. I carry 5+ years of experience in architecture, implementation and consulting for Adobe Experience Cloud solutions, including Adobe Target, Analytics, and Launch. Besides, I have a fair bit of exposure to Google Marketing Platform (GTM, Optimize and GA).
 
